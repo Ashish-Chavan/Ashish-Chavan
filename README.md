@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashish-Chavan
-- 👀 I’m a Full stack development
+- 👀 I’m a Full stack developer
 
 
 <!---
